@@ -1,0 +1,16 @@
+.jspHorizontalBar,.jspVerticalBar,.jspTrack {
+    background: #eeeef4;
+    width: 12px;
+    padding-right: 2px;
+}
+
+.jspDrag {
+    background: #D3D3D3;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.jspTrack .jspActive,.jspTrack .jspHover,.jspDrag:hover {
+    background: #808080;
+}

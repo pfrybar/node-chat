@@ -1,0 +1,22 @@
+#messages {
+    height: 200px;
+    width: 200px;
+    text-align: left;
+    padding: 5px;
+}
+
+.messages-read {
+    border: 2px solid grey;p
+}
+
+.messages-unread {
+    border: 2px solid green;
+}
+
+.centered {
+    text-align: center;
+}
+
+.centered-table {
+    margin: 0 auto;
+}
